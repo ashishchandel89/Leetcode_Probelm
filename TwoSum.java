@@ -5,7 +5,7 @@ class TwoSum{
     public int[] twosum_func(int[] nums,int target){
 
         int n=nums.length;
-        
+    
         return new int[]{};
     }
 
